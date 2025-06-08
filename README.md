@@ -11,7 +11,16 @@
 - 🤝 **Looking for help with:** Backend & Deployment (AWS, Vercel)  
 - 💬 **Ask me about:** HTML, CSS, Git & GitHub  
 - 📫 **Reach me at:** ayushraghuwanshi.dev@gmail.com  
-- ⚡ **Fun fact:** I enjoy debugging more than coding 😄  
+- ⚡ **Fun fact:** I enjoy debugging more than coding 😄
+
+  ---
+
+## 🌐 Social Profiles  
+<p align="center">
+  <a href="https://linkedin.com/in/ayush-raghuwanshi-dev"><img src="https://img.shields.io/badge/LinkedIn-AYUSH%20RAGHUWANSHI-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/_aayush_raghuwanshi_"><img src="https://img.shields.io/badge/Instagram-_aayush_raghuwanshi_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://leetcode.com/ayush_raghuwanshii"><img src="https://img.shields.io/badge/LeetCode-Ayush-orange?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -60,15 +69,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ayush-raghuwanshi-dev&show_icons=true&theme=tokyonight" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-raghuwanshi-dev&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Social Profiles  
-<p align="center">
-  <a href="https://linkedin.com/in/ayush-raghuwanshi-dev"><img src="https://img.shields.io/badge/LinkedIn-AYUSH%20RAGHUWANSHI-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/_aayush_raghuwanshi_"><img src="https://img.shields.io/badge/Instagram-_aayush_raghuwanshi_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://leetcode.com/ayush_raghuwanshii"><img src="https://img.shields.io/badge/LeetCode-Ayush-orange?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
 ---
