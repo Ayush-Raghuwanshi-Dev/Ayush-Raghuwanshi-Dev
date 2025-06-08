@@ -3,7 +3,7 @@
 
 📧 **Email Me:** ayushraghuwanshi.dev@gmail.com — let’s collaborate or work on projects!
 
----
+<hr>
 
 - 🔭 **Currently working on:** Full‑Stack Development Projects  
 - 🌱 **Currently learning:** JavaScript, React, Node.js  
@@ -13,7 +13,7 @@
 - 📫 **Reach me at:** ayushraghuwanshi.dev@gmail.com  
 - ⚡ **Fun fact:** I enjoy debugging more than coding 😄
 
-  ---
+<hr>
 
 ## 🌐 Social Profiles  
 <p align="center">
@@ -22,25 +22,25 @@
   <a href="https://leetcode.com/ayush_raghuwanshii"><img src="https://img.shields.io/badge/LeetCode-Ayush-orange?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
----
+<hr>
 
 [![](https://visitcount.itsvg.in/api?id=ayush-raghuwanshi-dev&icon=0&color=4)](https://visitcount.itsvg.in)
 
----
+<hr>
 
 <!-- Snake Game Animation -->  
 <div align="center">  
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />  
 </div>
 
----
+<hr>
 
 ## 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ayush-raghuwanshi-dev&theme=radical&no-bg=false&margin-w=4" />
 </p>
 
----
+<hr>
 
 ## 💻 Tech Stack  
 <p align="center">
@@ -60,7 +60,7 @@
   <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
 </p>
 
----
+<hr>
 
 ## 📊 GitHub Stats  
 <p align="center">
@@ -71,20 +71,22 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-raghuwanshi-dev&theme=tokyonight" />
 </p>
 
----
+<hr>
 
-### ✍️ Random Dev Quote  
+### ✍️ Quote  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
----
+<hr>
 
 ### 🔝 Top Contributed Repo  
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=ayush-raghuwanshi-dev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
 
----
+<hr>
 
-*Proudly created with 💙 by Ayush Raghuwanshi*
+<p align="center">
+  <i>Proudly created with 💙 by Ayush Raghuwanshi</i>
+</p>
